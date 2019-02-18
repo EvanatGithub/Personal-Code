@@ -1,0 +1,3 @@
+C:\Users\Ghost>scp ytl@ug04.cs.ualberta.ca:/cshome/ytl/Documents/cmput174/uagame.py Desktop
+
+//you seriously cant fking have a space after the colon
