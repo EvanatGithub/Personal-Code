@@ -1,0 +1,10 @@
+Ver1 - links patients to doctors, groups patients, drops patients
+
+Ver2: 
+  -create 2 new tables for patient visits
+  -add to database diagram
+  -create stored procedure for inserts
+  -insert test data
+  -add indexes
+  -add a column to patient, and trigger to insert the modified date to the column
+  -create views for common reports required by users
